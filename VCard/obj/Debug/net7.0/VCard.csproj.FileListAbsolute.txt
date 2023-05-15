@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\bin\Debug\net7.0\VCard.exe
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\bin\Debug\net7.0\VCard.deps.json
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\bin\Debug\net7.0\VCard.runtimeconfig.json
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\bin\Debug\net7.0\VCard.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\bin\Debug\net7.0\VCard.pdb
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\VCard.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\VCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\VCard.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\VCard.AssemblyInfo.cs
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\VCard.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\VCard.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\refint\VCard.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\VCard.pdb
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\VCard.genruntimeconfig.cache
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\ref\VCard.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\RNET102\C# Tasks\VCard\obj\Debug\net7.0\VCard.csproj.CopyComplete

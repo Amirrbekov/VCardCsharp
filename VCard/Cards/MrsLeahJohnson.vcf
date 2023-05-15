@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:7
+FN:MrsLeahJohnson
+N:Leah
+EMAIL:leah.johnson@example.com
+TEL:(931)-968-8999
+ADR:New Zealand
+ADR:Greymouth
+SORT-STRING:Johnson
+PHOTO:https://randomuser.me/api/portraits/med/women/25.jpg
+END:VCARD

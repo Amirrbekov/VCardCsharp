@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:1
+FN:MsLaylaChen
+N:Layla
+EMAIL:layla.chen@example.com
+TEL:(028)-717-9683
+ADR:New Zealand
+ADR:Upper Hutt
+SORT-STRING:Chen
+PHOTO:https://randomuser.me/api/portraits/med/women/34.jpg
+END:VCARD

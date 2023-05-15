@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:6
+FN:MissAmélieMeunier
+N:Amélie
+EMAIL:amelie.meunier@example.com
+TEL:05-27-84-91-01
+ADR:France
+ADR:Champigny-sur-Marne
+SORT-STRING:Meunier
+PHOTO:https://randomuser.me/api/portraits/med/women/26.jpg
+END:VCARD

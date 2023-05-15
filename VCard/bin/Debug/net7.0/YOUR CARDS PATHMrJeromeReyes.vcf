@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:8
+FN:MrJeromeReyes
+N:Jerome
+EMAIL:jerome.reyes@example.com
+TEL:00-3363-9734
+ADR:Australia
+ADR:Melbourne
+SORT-STRING:Reyes
+PHOTO:https://randomuser.me/api/portraits/med/men/49.jpg
+END:VCARD

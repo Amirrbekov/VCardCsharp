@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:6
+FN:MrsLiesaBorgmann
+N:Liesa
+EMAIL:liesa.borgmann@example.com
+TEL:0160-9194874
+ADR:Germany
+ADR:Hüfingen
+SORT-STRING:Borgmann
+PHOTO:https://randomuser.me/api/portraits/med/women/96.jpg
+END:VCARD

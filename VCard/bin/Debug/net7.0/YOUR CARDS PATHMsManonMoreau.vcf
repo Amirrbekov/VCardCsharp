@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:10
+FN:MsManonMoreau
+N:Manon
+EMAIL:manon.moreau@example.com
+TEL:02-50-52-50-72
+ADR:France
+ADR:Paris
+SORT-STRING:Moreau
+PHOTO:https://randomuser.me/api/portraits/med/women/20.jpg
+END:VCARD

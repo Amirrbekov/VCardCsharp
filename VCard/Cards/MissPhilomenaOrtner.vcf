@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:4
+FN:MissPhilomenaOrtner
+N:Philomena
+EMAIL:philomena.ortner@example.com
+TEL:0421-8208305
+ADR:Germany
+ADR:Hermeskeil
+SORT-STRING:Ortner
+PHOTO:https://randomuser.me/api/portraits/med/women/72.jpg
+END:VCARD

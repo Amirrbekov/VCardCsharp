@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:8
+FN:MsPrishaNayak
+N:Prisha
+EMAIL:prisha.nayak@example.com
+TEL:9668889709
+ADR:India
+ADR:Bhiwani
+SORT-STRING:Nayak
+PHOTO:https://randomuser.me/api/portraits/med/women/17.jpg
+END:VCARD

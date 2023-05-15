@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:1
+FN:MissKatherineCarter
+N:Katherine
+EMAIL:katherine.carter@example.com
+TEL:(260) 518-8411
+ADR:United States
+ADR:Scurry
+SORT-STRING:Carter
+PHOTO:https://randomuser.me/api/portraits/med/women/34.jpg
+END:VCARD

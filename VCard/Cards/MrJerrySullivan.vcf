@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:10
+FN:MrJerrySullivan
+N:Jerry
+EMAIL:jerry.sullivan@example.com
+TEL:051-627-8517
+ADR:Ireland
+ADR:Ashbourne
+SORT-STRING:Sullivan
+PHOTO:https://randomuser.me/api/portraits/med/men/59.jpg
+END:VCARD

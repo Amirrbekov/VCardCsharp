@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:3
+FN:MonsieurVladimirGuerin
+N:Vladimir
+EMAIL:vladimir.guerin@example.com
+TEL:075 794 34 62
+ADR:Switzerland
+ADR:Seewen
+SORT-STRING:Guerin
+PHOTO:https://randomuser.me/api/portraits/med/men/0.jpg
+END:VCARD

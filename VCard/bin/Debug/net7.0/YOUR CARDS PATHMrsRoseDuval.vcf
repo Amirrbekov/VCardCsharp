@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:3
+FN:MrsRoseDuval
+N:Rose
+EMAIL:rose.duval@example.com
+TEL:02-07-07-15-41
+ADR:France
+ADR:Nancy
+SORT-STRING:Duval
+PHOTO:https://randomuser.me/api/portraits/med/women/40.jpg
+END:VCARD

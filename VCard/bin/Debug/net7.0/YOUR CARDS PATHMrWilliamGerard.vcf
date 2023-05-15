@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.1
+ID:2
+FN:MrWilliamGerard
+N:William
+EMAIL:william.gerard@example.com
+TEL:02-61-89-84-23
+ADR:France
+ADR:Nîmes
+SORT-STRING:Gerard
+PHOTO:https://randomuser.me/api/portraits/med/men/96.jpg
+END:VCARD
